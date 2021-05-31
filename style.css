@@ -1,0 +1,24 @@
+table{
+    border-collapse:collapse;
+    font-family:'Lucida Sans', sans-serif;
+    color:#333333
+}
+table th{
+    background:#8ec5d8;
+    color:#0a0000;
+    font-weight:bold;
+    font-size:14px;
+}
+table th, td{
+    vertical-align:top;
+    padding:5px 10px;
+    border:1px solid #696969;
+}
+table tr{
+    background:#FFFF;
+}
+table tr:nth-child(even){
+    background:#FFF;
+}
+
+
