@@ -48,7 +48,14 @@ Buat file baru dengan nama tambah.php
 
 # 9. Mengubah Data (Update)
 Buat file baru dengan nama ubah.php
+![Screenshot (76)](https://user-images.githubusercontent.com/81582495/120256955-77d33200-c2b9-11eb-8757-d3b761816c59.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/81582495/120256964-7bff4f80-c2b9-11eb-8caa-7c54b4134899.png)
+![Screenshot (78)](https://user-images.githubusercontent.com/81582495/120256979-81f53080-c2b9-11eb-8c83-ae5ce21a81c3.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/81582495/120256987-83bef400-c2b9-11eb-876a-6e5ba8435884.png)
+![Setelah Barang ditambah](https://user-images.githubusercontent.com/81582495/120131218-2318b400-c1f2-11eb-9965-d958c66001a5.png) Tampilan awal sebelum diubah
 
+![Ubah Barang](https://user-images.githubusercontent.com/81582495/120256836-33e02d00-c2b9-11eb-813f-71ee26cc4745.png) Tampilan Saat Mengubah Data
+![Setelah Ubah Barang (Flashdisk menjadi Hard Disak) (1)](https://user-images.githubusercontent.com/81582495/120256863-4490a300-c2b9-11eb-8253-9fcb09bf5225.png) Tampilan Beranda Setelah diubah data (Flashdisk menjadi Hardisk)
 
 # 10. Menghapus Data (Delete)
 Buat file baru dengan nama hapus.php
